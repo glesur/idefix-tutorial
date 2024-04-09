@@ -19,7 +19,9 @@ Some of the exercises involve Jupyer notebook and source code extracts. It is th
 
 ```shell
 git clone https://github.com/glesur/idefix-tutorial.git
+cd idefix-tutorial
 git checkout LMU
+cd ..
 ```
 
 The last line allows you to get the LMU-specific tutorial.
